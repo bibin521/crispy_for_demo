@@ -1,2 +1,2 @@
 FROM httpd:lstest
-COPY 
+COPY . /usr/local/apache2/htdocs/
